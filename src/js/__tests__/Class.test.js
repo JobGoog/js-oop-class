@@ -1,5 +1,5 @@
 import Bowman from "../class/Bowman";
-import Demon from "../Class/Demon";
+import Demon from "../class/Demon";
 import Magician from "../class/Magician";
 import Swordman from "../class/Swordman";
 import Undead from "../class/Undead";

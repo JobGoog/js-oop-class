@@ -32,8 +32,8 @@ test('Создание персонажа с корректным именем �
     type: 'Zombie',
     health: 100,
     level: 1,
-    attack: 0,
-    defence: 0,
+    attack: undefined,
+    defence: undefined,
   });
 });
 
